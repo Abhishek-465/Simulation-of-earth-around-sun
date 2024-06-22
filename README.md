@@ -18,9 +18,14 @@
    
    ## 1.2) Initial Condition
    * Earth is at its Perihelion (closest to Sun)
+
+# 2) Simulation for Earth
+
+![Logo](earth_orbit.png)
+
    
   
 
-# 4) Simulate any planet of your choice
+# 3) Simulate any planet of your choice
 * Here is the [Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/
 ) that you can refer.
